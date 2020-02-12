@@ -1,0 +1,1 @@
+ build/flutter_assets/fonts/MaterialIcons-Regular.ttf build/flutter_assets/AssetManifest.json build/flutter_assets/FontManifest.json build/flutter_assets/LICENSE:  /Users/edison/Documents/Code/flutter/image_picker/example/pubspec.yaml /Users/edison/Development/flutter/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.ttf
